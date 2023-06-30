@@ -4544,7 +4544,7 @@ text-fill-color: transparent;
                                                                         <ul class="sub-menu">
                                                                             <li id="menu-item-47"
                                                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47">
-                                                                                <a href="../about/aboutu.php"><span
+                                                                                <a href="../about/about.php"><span
                                                                                         class="ct-menu-item"><span
                                                                                             class="ct-item--number"><span></span></span>About
                                                                                         Us</span><span
@@ -7266,7 +7266,7 @@ text-fill-color: transparent;
                                                 <ul class="sub-menu">
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47">
-                                                        <a href="../about/aboutus.php"><span>About Us</span></a></li>
+                                                        <a href="../about/about.php"><span>About Us</span></a></li>
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-357">
                                                         <a href="../our-team/ourTeam.php"><span>Our Team</span></a></li>
