@@ -3,7 +3,6 @@
    $id=$_POST['id'];
    $sql="SELECT * FROM `registration` where `id`='$id'";
    $query=mysqli_query($conn,$sql);
-   //$json_array= array();
    while($row = mysqli_fetch_assoc($query)){   
    if($row){       
        $data= $row; 
